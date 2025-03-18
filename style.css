@@ -1,7 +1,8 @@
 .one {
     background-color: black;
     color: whitesmoke;
-    text-align: center;
+    text-align: left;
+    padding: 20px;
 }
 
 #id {
@@ -11,18 +12,45 @@
 .two {
     background-color: bisque;
     color: black;
-    text-align: center;
+    text-align: left;
+    padding: 20px;
 }
 
 .four {
     background-color: black;
     color: whitesmoke;
-    text-align: center;
+    text-align: left;
 
 }
 
 .five {
     background-color: bisque;
     color: black;
-    text-align: center;
+    text-align: left;
 }
+
+
+.six{
+    background-color: purple;
+    color: white;
+    vertical-align: top;
+    display: inline-block;
+    padding: 20px;
+    height: 250px;
+    border-radius: 10px;
+
+   
+   
+}
+.seven{
+    background-color:green;
+    color: white;
+   vertical-align: top;
+    display: inline-block;
+    padding: 20px;
+    height: 250px;
+    border-radius: 10px;
+  
+   
+}
+
